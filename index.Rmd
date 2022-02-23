@@ -1,0 +1,25 @@
+---
+title: "Liz Ancel"
+image: "liz_rose_bg.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/elizabeth-ancel"
+  - label: Twitter
+    url: "https://twitter.com/elittlebitwordy"
+  - label: Instagram
+    url: "https://www.instagram.com/e.little.bit.wordy/" 
+  - label: GitHub
+    url: "https://github.com/elittlebitwordy"
+  - label: Email
+    url: "mailto:eancel014@umn.edu"
+output:
+  postcards::jolla
+---
+ 
+### M.S. CCC-SLP
+
+When I was younger, my mom used to scoff at me if I got stuck on the word puzzles in the newspaper. I've gotten better at crosswords and cryptoquips, but I don't think I'll ever match her in word scrambles. Or at wheel of fortune, for that matter. 
+
+Since then, I've become interested in a number of wordy things: writing, grammar, linguistics, speech-language pathology, phonetics, and children's speech. In the same way, this page is also interested in a number of wordy things, whether it be as "official" as my current research projects or as "unofficial" as a word puzzle I happen to come across. 
+
+I welcome all word lovers here and invite you to message me about anything interesting going on in the world of words. 
